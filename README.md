@@ -27,3 +27,13 @@ A proposta é desenvolver um **agregador de dados inteligente**, no qual o usuá
 * ✅ Organização estruturada das informações
 * ✅ Links rápidos para acesso facilitado
 * ✅ Interface amigável e prática
+
+* 🧾 Autor(a)
+
+👩‍💻 Camila Campos
+
+📚 Estudante de Administração - UFRRJ com foco em Análise de Dados e Inteligência Artificial.
+
+🌐 [LinkedIn](https://linkedin.com/in/camilascampos)
+
+![image alt](
