@@ -24,7 +24,7 @@ A proposta é desenvolver um **agregador de dados inteligente**, no qual o usuá
 
 * 🧾 Autor(a)
 
-👩‍💻 Camila Campos
+Camila Campos
 
 📚 Estudante de Administração - UFRRJ com foco em Análise de Dados e Inteligência Artificial.
 
