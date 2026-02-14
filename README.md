@@ -6,7 +6,7 @@ Este projeto tem como objetivo criar uma ferramenta no **Excel** que ajude a org
 
 A proposta é desenvolver um **agregador de dados inteligente**, no qual o usuário possa controlar suas informações financeiras de maneira eficiente, estruturada e validada.
 
-## 🎯 Objetivos
+🎯 Objetivos
 
 * Centralizar todas as informações necessárias para a declaração do imposto de renda
 * Facilitar o controle de entradas financeiras
@@ -14,7 +14,7 @@ A proposta é desenvolver um **agregador de dados inteligente**, no qual o usuá
 * Oferecer navegação intuitiva dentro da planilha
 * Disponibilizar atalhos e links rápidos para maior praticidade
 
-## 🛠️ Funcionalidades
+🛠️ Funcionalidades
 
 * ✅ Menus de navegação interativos
 * ✅ Validações automáticas de dados
