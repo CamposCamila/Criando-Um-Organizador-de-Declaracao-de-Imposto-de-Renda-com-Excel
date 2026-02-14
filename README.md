@@ -1,11 +1,5 @@
 # Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda-com-Excel
 
-Claro! Aqui está uma sugestão de descrição para o **README.md** do seu projeto no GitHub:
-
----
-
-# 📊 Organizador de Imposto de Renda em Excel
-
 ## 📌 Sobre o Projeto
 
 Este projeto tem como objetivo criar uma ferramenta no **Excel** que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda.
