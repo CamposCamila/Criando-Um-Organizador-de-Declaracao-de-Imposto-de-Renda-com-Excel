@@ -30,4 +30,8 @@ Camila Campos
 
 🌐 [LinkedIn](https://linkedin.com/in/camilascampos)
 
+![image alt](https://github.com/CamposCamila/Criando-Um-Organizador-de-Declaracao-de-Imposto-de-Renda-com-Excel/blob/29418403c04a4be4d8a1c5e09651d5f46880db07/Titular.jpg)
+
+![image alt](
+
 ![image alt](
